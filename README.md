@@ -18,6 +18,6 @@ Par datu kopām: https://www.unb.ca/cic/datasets/ids-2017.html
 7. KNN algoritms
 8. Gaussian Naive Bayes algoritms
 
-# Izmantoti avoti
+# Izmantotie avoti koda izstrādei
 1. https://github.com/noushinpervez/Intrusion-Detection-CICIDS2017
 2. https://github.com/rahul-38-26-0111-0003/Network-based-Intrusion-Detection-Systems/tree/master
