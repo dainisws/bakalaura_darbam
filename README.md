@@ -12,11 +12,12 @@ Par datu kopām: https://www.unb.ca/cic/datasets/ids-2017.html
 1. Sākotnēji tika ielādēta un izmantota tikai viena CIC-IDS2017 datu apakškopa – Wednesday-workingHours.pcap_ISCX.csv.
 2. Datu kopas analīze - veikta sākotnējā datu analīze, iekļaujot dimensiju un trūkstošo vērtību pārbaudi.
 3. Datu tīrīšana - dublēto ierakstu noņemšana, trūkstošo un bezgalīgo vērtību apstrāde, kolonnu nosaukumu normalizācija.
-4. Datu kopas uzbrukumu vizualizācija - 
-5. Datu sadalīšana treniņu un testēšanas kopās (70/30) - 
+4. Datu kopas uzbrukumu vizualizācija
+5. Datu sadalīšana treniņu un testēšanas kopās (70/30)
 6. Decision Tree algoritms
 7. KNN algoritms
 8. Gaussian Naive Bayes algoritms
+9. Vizualizācijas un rezultātu apkopojums
 
 # Izmantotie avoti koda izstrādei
 1. https://github.com/noushinpervez/Intrusion-Detection-CICIDS2017
