@@ -6,4 +6,4 @@ ML algoritmu veitspējas novērtēšana - ML_github.ipynb
 
 # Izmantotie avoti
 1. Par datu kopām: https://www.unb.ca/cic/datasets/ids-2017.html 
-2. 
+
